@@ -1,0 +1,5 @@
+{
+  "name": "PromptCraft AI",
+  "description": "Generate high-quality, detailed prompts for image and video generation models using Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
